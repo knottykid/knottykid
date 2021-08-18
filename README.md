@@ -50,7 +50,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://john-rosario.netlify.app"><img alt="Website" src="https://img.shields.io/badge/Website-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://johnrosario.me"><img alt="Website" src="https://img.shields.io/badge/Website-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/john-rosario-f/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 <a href="mailto:john.rosariofrancisco@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-john.rosariofrancisco@gmail.com-blue?style=flat-square&logo=gmail"></a>
